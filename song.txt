@@ -1,3 +1,4 @@
 test one - it is summer right now
 test from remote - it is not winter
-test from gui - it is not spring
+
+new test for revert
